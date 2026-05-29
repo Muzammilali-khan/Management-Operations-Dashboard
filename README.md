@@ -9,6 +9,14 @@ Management reporting system with automated alerts, PDF reports, and Power BI das
 - Weekly PDF report generation
 - Interactive 3-page Power BI dashboard
 
+## Tech Stack
+
+- Python (data generation, ETL, alerts, PDF)
+- Power BI (dashboard)
+- ReportLab (PDF generation)
+- Pandas (data processing)
+
+
 ## Files
 
 | File | Purpose |
