@@ -12,16 +12,16 @@ Management reporting system with automated alerts, PDF reports, and Power BI das
 ## Dashboard Previews
 
 ### Executive Dashboard
-![Executive Dashboard](dashboard-executive.png)
+![Executive Dashboard](Dashboard-Executive.png)
 
 ### Project Tracking
-![Project Dashboard](dashboard-project.png)
+![Project Dashboard](Dashboard-Project.png)
 
 ### Budget Analysis
-![Budget Dashboard](dashboard-budget.png)
+![Budget Dashboard](Dashboard-Budget.png)
 
 ## Sample Report
-[Download Sample PDF Report](sample-report.pdf)
+[Download Sample PDF Report](Sample-Report.pdf)
 
 ## Tech Stack
 
