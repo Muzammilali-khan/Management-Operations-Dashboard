@@ -21,7 +21,7 @@ Management reporting system with automated alerts, PDF reports, and Power BI das
 ![Budget Dashboard](Dashboard-Budget.png)
 
 ## Sample Report
-[Download Sample PDF Report](Sample-Report.pdf)
+[Download Sample PDF Report](Sample_Report.pdf)
 
 ## Tech Stack
 
