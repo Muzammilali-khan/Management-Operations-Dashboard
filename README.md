@@ -9,6 +9,20 @@ Management reporting system with automated alerts, PDF reports, and Power BI das
 - Weekly PDF report generation
 - Interactive 3-page Power BI dashboard
 
+## Dashboard Previews
+
+### Executive Dashboard
+![Executive Dashboard](dashboard-executive.png)
+
+### Project Tracking
+![Project Dashboard](dashboard-project.png)
+
+### Budget Analysis
+![Budget Dashboard](dashboard-budget.png)
+
+## Sample Report
+[Download Sample PDF Report](sample-report.pdf)
+
 ## Tech Stack
 
 - Python (data generation, ETL, alerts, PDF)
